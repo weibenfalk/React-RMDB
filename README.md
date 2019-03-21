@@ -4,7 +4,7 @@ Clone or download the files and do the following:
 
 1. Navigate into the folder
 
-2. Install dependencies by typing `npm install``
+2. Install dependencies by typing `npm install`
 
 3. Run the App by typing `npm start` (If it says something about updating for latest browser versions, select Yes)
 
