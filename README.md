@@ -1,4 +1,5 @@
 This is the completed project in my React Beginner Course. It's a Movie App based on The Movie Database API.
+You can find the finished App online here: http://weibenfalk.com/react_rmdb
 
 Clone or download the files and do the following:
 
